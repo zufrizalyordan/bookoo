@@ -13,3 +13,16 @@ body {
   flex-basis: 10em;
   flex-grow: 1;
 }
+
+.app {
+  margin-top: 20px;
+}
+
+h1 {
+  .tagline {
+    display: block;
+    font-size: .5em;
+    font-weight: 100;
+    margin-top: 2px;
+  }
+}

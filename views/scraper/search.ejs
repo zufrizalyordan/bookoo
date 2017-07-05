@@ -1,1 +1,7 @@
-Searhing Sites: xxx, xxx, xxx
+Searching Sites: <span class="sites"><%= results.sites %></span>
+
+<ul>
+  <% for (item in results.data) { %>
+  <li><%= item.title %> <%= item.url %></li>
+  <% } %>
+</ul>

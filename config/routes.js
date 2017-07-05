@@ -33,7 +33,7 @@ module.exports.routes = {
   ***************************************************************************/
 
   'GET /': 'PagesController.home',
-  'GET /search': 'ScraperController.search'
+  'GET /search': 'ScraperController.search',
 
   /***************************************************************************
   *                                                                          *

@@ -2,7 +2,7 @@
   "name": "bookoo",
   "private": true,
   "version": "0.0.0",
-  "description": "a Sails application",
+  "description": "Searching books since 2017",
   "keywords": [],
   "dependencies": {
     "ejs": "2.3.4",
@@ -28,7 +28,8 @@
     "react-dom": "^15.6.1",
     "sails": "~0.12.13",
     "sails-disk": "~0.10.9",
-    "sails-mongo": "^0.12.2"
+    "sails-mongo": "^0.12.2",
+    "x-ray": "^2.3.2"
   },
   "scripts": {
     "debug": "node debug app.js",
