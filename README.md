@@ -1,19 +1,20 @@
 # bookoo
-Pencarian buku menggunakan scraper
+Scraping website buku di indonesia menggunakan SailsJS
 
-Tools
-- NodeJS
+### Tools
+- NodeJS v7.7.4
 - X-ray
+- SailsJS
+- Websockets
 
-Target
-// https://www.belbuk.com/
-// http://www.bukupedia.com
-// http://www.bukukita.com
-// http://www.bukabuku.com
-// http://garisbuku.com
-// http://grobmart.com
-// http://www.gramedia.com
-// https://www.mizanstore.com
-// http://www.palasarionline.com
+### Situs buku yang sudah integrasi ke kode
+- https://www.mizanstore.com
 
-don't forget to remove api/policies/nocache.js for production
+### Beberapa situs buku lain di indonesia
+- http://www.bukupedia.com
+- http://www.bukukita.com
+- http://www.bukabuku.com
+- http://garisbuku.com
+- http://grobmart.com
+- http://www.gramedia.com
+- http://www.palasarionline.com
